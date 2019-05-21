@@ -1,0 +1,29 @@
+body{
+    min-height: 50vh;
+    background-color: #CCC;
+}
+
+.login-form{
+    padding: 60px 30px;
+    background-color: rgba(0, 0, 0, .9);
+    margin-top: 20vh;
+    transform: translateY(-10%);
+    color: white;
+}
+
+.login-form h1{
+    margin: 0 0 5px;
+}
+
+.login-form h2{
+    margin: 0 0 30px;
+    font-size: 1em;
+}
+
+.corpo{
+    margin-top: 100px;
+}
+
+.textarea{
+    height: 250px;
+}
